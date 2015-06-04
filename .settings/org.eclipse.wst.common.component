@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.6.0">
+    <wb-module deploy-name="arcgisproxy">
+        <wb-resource deploy-path="/" source-path="/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="arcgis_proxy"/>
+        <property name="java-output-path" value="/arcgisproxy/build/classes"/>
+    </wb-module>
+</project-modules>
